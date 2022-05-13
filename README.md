@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me :- Student 👨‍🎓
-🌱 I’m currently learning ... HTML , CSS and Javascript 📚
 
-Intermediate Python Programmer👨‍💻
+➼Intermediate Python Programmer👨‍💻
+
+🌱 I’m currently learning ... HTML , CSS and Javascript 📚
 
 📫 How to reach me: ...kushagrafrix7@gmail.com📧
 
