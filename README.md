@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ### About me :- Student 👨‍🎓
 🌱 I’m currently learning ... HTML , CSS and Javascript 📚
+
 Intermediate Python Programmer👨‍💻
+
 📫 How to reach me: ...kushagrafrix7@gmail.com📧
+
 ⚡ Fun fact: ...Lifeaholic
