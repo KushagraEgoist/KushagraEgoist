@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Kushagra
 
 <!--
 **KushagraEgoist/KushagraEgoist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+➼ About me - Student 🧑‍🎓
+➼ Intermediate Python Programmer👨‍💻
+➼ Also learning HTML , CSS and Javascript📚
+➼ How to reach me - kushagrafrix7@gmail.com📧
+Ｌｉｆｅａｈｏｌｉｃ.
