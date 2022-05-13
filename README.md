@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-➼ About me - Student 🧑‍🎓
+### About me :- Student 👨‍🎓
 ➼ Intermediate Python Programmer👨‍💻
 ➼ Also learning HTML , CSS and Javascript📚
 ➼ How to reach me - kushagrafrix7@gmail.com📧
